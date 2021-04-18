@@ -1,5 +1,5 @@
 PATH
-  remote: #jekyll-theme-hydejack
+  remote: jekyll-theme-hydejack
   specs:
     jekyll-theme-hydejack (9.1.4)
       jekyll (>= 3.8, < 5.0)
